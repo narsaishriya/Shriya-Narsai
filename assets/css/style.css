@@ -158,7 +158,6 @@ body.dark-mode h5 {
     padding: 40px 20px;
     background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
     color: white;
-    border-radius: 10px;
     margin-bottom: 40px;
 }
 
