@@ -131,7 +131,7 @@ h4 {
 /* Hero Section */
 .hero {
     text-align: center;
-    padding: 60px 20px;
+    padding: 40px 20px;
     background: linear-gradient(135deg, var(--accent) 0%, var(--accent-dark) 100%);
     color: white;
     border-radius: 10px;
@@ -140,13 +140,13 @@ h4 {
 
 .hero h1 {
     color: white;
-    font-size: 3em;
-    margin-bottom: 20px;
+    font-size: 2.2em;
+    margin-bottom: 15px;
 }
 
 .hero p {
-    font-size: 1.2em;
-    margin-bottom: 30px;
+    font-size: 1.05em;
+    margin-bottom: 25px;
 }
 
 .cta-buttons {

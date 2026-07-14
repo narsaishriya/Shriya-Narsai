@@ -1,5 +1,7 @@
 # Shriya Narsai - Portfolio Website
 
+**Live Site:** https://narsaishriya.github.io/Shriya-Narsai/
+
 A modern, responsive portfolio website showcasing my CV, projects, and contact information.
 
 ## Features
