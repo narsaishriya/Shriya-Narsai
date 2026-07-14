@@ -482,6 +482,29 @@ footer {
         padding: 20px 10px;
     }
 
+    nav .nav-container {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    nav {
+        padding: 0.8rem 1rem;
+    }
+
+    .nav-links {
+        gap: 1rem;
+        font-size: 0.9em;
+        flex: 1;
+    }
+
+    .dark-mode-toggle {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8em;
+        white-space: nowrap;
+        order: 3;
+        width: 100%;
+    }
+
     h1 {
         font-size: 1.8em;
     }
@@ -492,11 +515,6 @@ footer {
 
     .hero h1 {
         font-size: 2em;
-    }
-
-    .nav-links {
-        gap: 1rem;
-        font-size: 0.9em;
     }
 
     .cta-buttons {
