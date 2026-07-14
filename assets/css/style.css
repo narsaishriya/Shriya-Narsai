@@ -524,6 +524,8 @@ footer {
     nav .nav-container {
         flex-wrap: wrap;
         gap: 1rem;
+        justify-content: center;
+        text-align: center;
     }
 
     nav {
